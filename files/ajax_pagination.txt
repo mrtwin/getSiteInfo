@@ -6,3 +6,4 @@ https://www.facebook.com/ajax/browser/list/group_confirmed_members/?gid=45730509
 
 не работает:
 https://www.facebook.com/ajax/browser/list/group_confirmed_members/?gid=457305091328040&order=date&view=list&limit=15&sectiontype=recently_joined&cursor=AQHRHwbMZSUWb_WxUb3Vm0yBoEaa4kL1GAtWhwwX_gtuK0mLDVkhUevxYUDjsA-aKKWI8eGa5pqoTdjALBns8tmSrA&start=15&av=100003121004131" rel="async" id="u_0_14" class="pam uiBoxLightblue uiMorePagerPrimary
+
